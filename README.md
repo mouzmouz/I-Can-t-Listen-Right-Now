@@ -42,8 +42,13 @@
 
 ## Credits
 Demetra Hadjicosti
+
 Ioanna Vounzoulaki
+
 Eleni Mouzaki
+
 Samin Asnaashari
+
 Michalina Modzelewska
+
 Veronica Dell’Aera
