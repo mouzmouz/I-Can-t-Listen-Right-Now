@@ -12,13 +12,13 @@
 *"How do two novel approaches for mobile communication, one combining text and voice, and the other combining emojis and voice, compare in comprehension and usability scores?"*
 
 ## Proposed Solutions
-1️⃣ **Voice & Text** – Highlights important words from voice messages as **pop-up text**.  
-2️⃣ **Voice & Emojis** – Highlights key words using **emojis** to enhance interpretation.
+- **Voice & Text** – Highlights important words from voice messages as **pop-up text**.  
+- **Voice & Emojis** – Highlights key words using **emojis** to enhance interpretation.
 
 ## Hypotheses
-✔ **Usability**: The novel approaches will be deemed **acceptable** by users.  
-✔ **Comprehension**: Voice + text and voice + emoji will outperform standard voice messages.  
-✔ **User Preference**: Users will prefer the novel approaches over traditional voice messages.  
+- **Usability**: The novel approaches will be deemed **acceptable** by users.  
+- **Comprehension**: Voice + text and voice + emoji will outperform standard voice messages.  
+- **User Preference**: Users will prefer the novel approaches over traditional voice messages.  
 
 ## Methodology
 - **Three experimental groups**:
